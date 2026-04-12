@@ -15,6 +15,7 @@
  *     struct ListNode *next;
  * };
  */
+ public class ListNode{
 struct ListNode* removeNthFromEnd(struct ListNode* head, int n) {
     struct ListNode* temp=head;
     int count=0;
@@ -35,3 +36,4 @@ struct ListNode* removeNthFromEnd(struct ListNode* head, int n) {
 
     return head;
 }
+ }
