@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
@@ -155,5 +157,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
