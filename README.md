@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0071-simplify-path](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0155-min-stack/) | Medium |
