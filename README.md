@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
