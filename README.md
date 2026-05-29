@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0231-power-of-two](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
