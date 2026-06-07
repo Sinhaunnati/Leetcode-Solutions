@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
