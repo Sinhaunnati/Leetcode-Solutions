@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -284,4 +286,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
