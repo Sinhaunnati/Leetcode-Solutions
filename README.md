@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0645-set-mismatch](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0645-set-mismatch](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
