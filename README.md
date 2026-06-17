@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
