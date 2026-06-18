@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0137-single-number-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -322,4 +324,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
