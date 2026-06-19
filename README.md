@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
