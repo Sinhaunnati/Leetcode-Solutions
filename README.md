@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
