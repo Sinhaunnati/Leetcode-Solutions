@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
