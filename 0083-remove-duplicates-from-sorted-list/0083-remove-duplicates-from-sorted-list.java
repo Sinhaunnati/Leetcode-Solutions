@@ -8,18 +8,43 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+// class Solution {
+//     public ListNode deleteDuplicates(ListNode head) {
+//         ListNode temp = head;
+
+//         while (temp != null && temp.next != null) {
+//             if (temp.val == temp.next.val) {
+//                 temp.next = temp.next.next;   
+//             } else {
+//                 temp = temp.next;            
+//             }
+//         }
+
+//         return head;
+//     }
+// }
+
+
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        ListNode temp = head;
+        ListNode temp=head;
+        ListNode prev=null;
+        HashMap<Integer,Integer> mpp=new HashMap<>();
+        while(temp!=null){
 
-        while (temp != null && temp.next != null) {
-            if (temp.val == temp.next.val) {
-                temp.next = temp.next.next;   
-            } else {
-                temp = temp.next;            
+            if(mpp.containsKey(temp.val)){
+                mpp.put(temp.val,mpp.get(temp.val)+1);
+                prev.next=temp.next;
+
             }
-        }
+            else{
+                mpp.put(temp.val,1);
+                prev=temp;
+            }
+            temp=temp.next;
 
+        }
         return head;
+        
     }
 }
