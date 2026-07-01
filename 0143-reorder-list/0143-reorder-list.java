@@ -8,42 +8,84 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+// class Solution {
+//     public void reorderList(ListNode head) {
+//         if(head==null || head.next==null){
+//             return ;
+//             }
+//         ListNode temp=head;
+//         while(temp.next!=null){
+//             if(temp.next.next==null){
+//                 break;
+
+//             }
+//             ListNode tail=FindTail(head);
+//             tail.next=temp.next;
+//             temp.next=tail;
+//             temp=temp.next.next;
+//         }
+//         return ;
+
+
+        
+//     }
+//     private ListNode FindTail(ListNode head){
+//         if(head==null || head.next==null){
+//             return head;
+//             }
+//             ListNode tail=head;
+//             ListNode prevtail=null;
+
+//             while(tail.next!=null){
+//                 prevtail=tail;
+//                 tail=tail.next;
+//             }
+//             if(prevtail!=null){
+//                 prevtail.next=null;
+//             }
+//             return tail;
+        
+//     }
+// }
+
 class Solution {
     public void reorderList(ListNode head) {
-        if(head==null || head.next==null){
-            return ;
-            }
-        ListNode temp=head;
-        while(temp.next!=null){
-            if(temp.next.next==null){
-                break;
+        if (head == null || head.next == null)
+            return;
 
-            }
-            ListNode tail=FindTail(head);
-            tail.next=temp.next;
-            temp.next=tail;
-            temp=temp.next.next;
+    
+        ListNode slow = head, fast = head;
+
+        while (fast.next != null && fast.next.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        return ;
-
 
         
-    }
-    private ListNode FindTail(ListNode head){
-        if(head==null || head.next==null){
-            return head;
-            }
-            ListNode tail=head;
-            ListNode prevtail=null;
+        ListNode prev = null;
+        ListNode curr = slow.next;
+        slow.next = null;
 
-            while(tail.next!=null){
-                prevtail=tail;
-                tail=tail.next;
-            }
-            if(prevtail!=null){
-                prevtail.next=null;
-            }
-            return tail;
+        while (curr != null) {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+
         
+        ListNode first = head;
+        ListNode second = prev;
+
+        while (second != null) {
+            ListNode t1 = first.next;
+            ListNode t2 = second.next;
+
+            first.next = second;
+            second.next = t1;
+
+            first = t1;
+            second = t2;
+        }
     }
 }
