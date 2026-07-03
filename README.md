@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0645-set-mismatch](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -390,4 +393,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
