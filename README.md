@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Stack
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
