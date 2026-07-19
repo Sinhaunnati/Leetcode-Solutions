@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0645-set-mismatch](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Tree
@@ -302,12 +304,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,4 +456,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
