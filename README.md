@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0832-flipping-an-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0912-sort-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0645-set-mismatch](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0912-sort-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -336,11 +338,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0912-sort-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Bucket Sort
@@ -348,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0912-sort-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -441,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0912-sort-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,4 +470,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
