@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
