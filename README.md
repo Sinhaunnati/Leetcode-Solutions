@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0155-min-stack/) | Medium |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -349,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -363,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
