@@ -16,27 +16,7 @@
 //      }
 //   }
 
-    
-// //   public static void main(String[] args){
-// //     // Solution sol=new Solution();
-// //         int nums[]={2,3,4,5};
-// //         Scanner sc = new Scanner(System.in);
-// //         System.out.print("Enter target:");
-// //         int target =sc.nextInt();
-// //         // int[] result=sol.twoSum(nums,target);
-// //          int[] result = twoSum(nums, target);
-// //          if (result.length > 0) {
-// //             System.out.println("Indices: " + result[0] + ", " + result[1]);
-// //         } else {
-// //             System.out.println("No pair found");
-// //         }
 
-// //         sc.close();
-        
-       
-        
-// //  }
-// //      }
 
 
 import java.util.HashMap;
