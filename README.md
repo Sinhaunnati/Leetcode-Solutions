@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -493,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
