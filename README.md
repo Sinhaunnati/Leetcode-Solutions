@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -506,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
