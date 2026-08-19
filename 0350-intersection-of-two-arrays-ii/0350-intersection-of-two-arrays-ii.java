@@ -1,27 +1,81 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
 
-        HashMap<Integer,Integer> mpp= new HashMap<>();
-        for(int num:nums1){
-            mpp.put(num,mpp.getOrDefault(num,0)+1);
-        }
+    //     HashMap<Integer,Integer> mpp= new HashMap<>();
+    //     for(int num:nums1){
+    //         mpp.put(num,mpp.getOrDefault(num,0)+1);
+    //     }
 
 
-        List<Integer> result=new ArrayList<>();
-        for(int num:nums2){
-            if(mpp.getOrDefault(num,0)>0){
-                result.add(num);
-                mpp.put(num,mpp.get(num)-1);
+    //     List<Integer> result=new ArrayList<>();
+    //     for(int num:nums2){
+    //         if(mpp.getOrDefault(num,0)>0){
+    //             result.add(num);
+    //             mpp.put(num,mpp.get(num)-1);
 
-            }
-         }
+    //         }
+    //      }
 
 
-          int[] arr = new int[result.size()];
-          for (int i = 0; i < result.size(); i++) {
-            arr[i] = result.get(i);
+    //       int[] arr = new int[result.size()];
+    //       for (int i = 0; i < result.size(); i++) {
+    //         arr[i] = result.get(i);
+    // }
+
+    // return arr;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HashMap<Integer,Integer> mpp=new HashMap<>();
+for(int num:nums1){
+    mpp.put(num,mpp.getOrDefault(num,0)+1);
+}
+
+List<Integer> res=new ArrayList<>();
+for(int num:nums2){
+    if(mpp.getOrDefault(num,0)>0){
+        res.add(num);
+        mpp.put(num,mpp.get(num)-1);
     }
+}
+int arr[]=new int[res.size()];
+for(int i=0;i<arr.length;i++){
+    arr[i]=res.get(i);
+}
 
-    return arr;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return arr;
+
+
+
+
     }
 }
