@@ -4,8 +4,8 @@ class Solution {
         if (n == 1) return nums[0];
 
         return Math.max(
-            robRange(nums, 0, n - 2),   // exclude last house
-            robRange(nums, 1, n - 1)    // exclude first house
+            robRange(nums, 0, n - 2),   
+            robRange(nums, 1, n - 1)   
         );
     }
 
