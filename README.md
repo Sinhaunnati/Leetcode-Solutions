@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -534,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2256-minimum-average-difference](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2256-minimum-average-difference/) | Medium |
