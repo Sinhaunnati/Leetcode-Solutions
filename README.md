@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0832-flipping-an-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0877-stone-game](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## String
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0912-sort-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -514,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -533,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -643,4 +649,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 <!---LeetCode Topics End-->
