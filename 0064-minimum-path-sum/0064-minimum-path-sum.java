@@ -7,27 +7,42 @@ class Solution {
         int m = grid[0].length;
         
         dp = new int[n][m];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(i==0 && j==0) dp[i][j]=grid[0][0];
+            
+            else{
+                 int up = 1000000000;
+                 int left = 1000000000;
+                if(i>0) up=dp[i-1][j];
+                if(j>0) left=dp[i][j-1];
+                dp[i][j] = grid[i][j] + Math.min(up, left);
+            }
+            }
+        }
+        return dp[n-1][m-1];
 
-        for(int[] row : dp)
-            Arrays.fill(row, -1);
+        // for(int[] row : dp)
+        //     Arrays.fill(row, -1);
 
-        return func(n - 1, m - 1, grid);
-    }
-
-    int func(int i, int j, int[][] grid) {
-        
-
-        if(i == 0 && j == 0)
-            return grid[0][0];
-
-        if(i < 0 || j < 0)
-            return 1000000000;
-
-        if(dp[i][j]!=-1) return dp[i][j];
-
-        int up = grid[i][j] + func(i - 1, j, grid);
-        int left = grid[i][j] + func(i, j - 1, grid);
-
-        return dp[i][j]=Math.min(up, left);
+        // return func(n - 1, m - 1, grid);
     }
 }
+
+//     int func(int i, int j, int[][] grid) {
+        
+
+//         if(i == 0 && j == 0)
+//             return grid[0][0];
+
+//         if(i < 0 || j < 0)
+//             return 1000000000;
+
+//         if(dp[i][j]!=-1) return dp[i][j];
+
+//         int up = grid[i][j] + func(i - 1, j, grid);
+//         int left = grid[i][j] + func(i, j - 1, grid);
+
+//         return dp[i][j]=Math.min(up, left);
+//     }
+// }
