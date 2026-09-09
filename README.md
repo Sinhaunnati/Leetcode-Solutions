@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
