@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
