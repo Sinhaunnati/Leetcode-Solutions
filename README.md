@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0877-stone-game](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
