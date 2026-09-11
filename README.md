@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -626,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
