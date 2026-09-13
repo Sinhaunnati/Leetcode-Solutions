@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0835-image-overlap](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0877-stone-game](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -612,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0733-flood-fill](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0835-image-overlap](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
