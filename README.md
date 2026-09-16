@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2104-sum-of-subarray-ranges](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
@@ -660,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
