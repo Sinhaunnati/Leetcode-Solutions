@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
@@ -578,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
