@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0120-triangle/) | Medium |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
@@ -580,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
