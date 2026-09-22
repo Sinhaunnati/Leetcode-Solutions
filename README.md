@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [0412-fizz-buzz](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0520-detect-capital](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0412-fizz-buzz](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0507-perfect-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -662,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0832-flipping-an-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
