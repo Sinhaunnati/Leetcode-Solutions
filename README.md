@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0507-perfect-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0728-self-dividing-numbers/) | Easy |
