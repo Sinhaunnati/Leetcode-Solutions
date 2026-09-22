@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Sorting
