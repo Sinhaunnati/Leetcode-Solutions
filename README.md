@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
@@ -658,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0258-add-digits](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0832-flipping-an-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -823,6 +825,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
