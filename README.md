@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## String
