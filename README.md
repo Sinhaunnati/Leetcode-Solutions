@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3731-find-missing-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Hash Table
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
