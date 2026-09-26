@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -645,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Backtracking
