@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0908-smallest-range-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [0912-sort-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0908-smallest-range-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
