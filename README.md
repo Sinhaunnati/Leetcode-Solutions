@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0520-detect-capital](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0709-to-lower-case](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
