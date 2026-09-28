@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-unique-morse-code-words](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -469,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Sorting
@@ -613,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Quickselect
