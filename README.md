@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -610,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
