@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -889,6 +891,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
