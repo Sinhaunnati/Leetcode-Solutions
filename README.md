@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -768,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
