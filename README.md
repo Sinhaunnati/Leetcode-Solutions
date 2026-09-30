@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2256-minimum-average-difference](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2256-minimum-average-difference/) | Medium |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -775,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
