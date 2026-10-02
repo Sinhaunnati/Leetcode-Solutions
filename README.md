@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -831,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -971,4 +974,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0207-course-schedule/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/Sinhaunnati/Leetcode-Solutions/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
